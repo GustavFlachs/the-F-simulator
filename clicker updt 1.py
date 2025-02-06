@@ -17,6 +17,8 @@ auto_upgrade_bought = 0
 
 
 
+
+
 def money():
     print(f"You have:{cashmoney}$.")
 
@@ -85,3 +87,4 @@ while True:
 
 #add an upgrade that makes passive moneyf DONE
 #add a 2x times to all multipliers upgrade or smth
+#add html page so it dont run in visual code studio no more
